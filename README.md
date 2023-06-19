@@ -14,7 +14,7 @@ This repository contains multiple algorithms implemented in Python using Google 
 
 Nature-inspired algorithms are computational methods that mimic the behavior of natural systems or phenomena to solve complex problems. These algorithms are often inspired by biological, physical, or ecological processes and have been successfully applied in various fields, including optimization, machine learning, and data mining.
 
-This repository aims to provide implementations of popular nature-inspired algorithms in Python, along with relevant examples and documentation. The algorithms included in this project are designed to serve as a resource for students that, as me, are starting their adventures in computer science. Most of the problems and examples were proposed by my professor, Fabricio Breve, for his course on "Nature-Inspired Computing".
+This repository aims to provide implementations of popular nature-inspired algorithms in Python, along with relevant examples and documentation. The algorithms included in this project are designed to serve as a resource for students that, as me, are starting their adventures in computer science. Most of the problems and examples were proposed by my professor, [Fabricio Breve](https://www.fabriciobreve.com/), for his course on "Nature-Inspired Computing".
 
 ## Algorithms
 
